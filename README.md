@@ -1,2 +1,3 @@
-# my_lottery
-JavaEE and Wildfly
+# My Lottery
+
+## Trained technologies: JavaEE and Wildfly
